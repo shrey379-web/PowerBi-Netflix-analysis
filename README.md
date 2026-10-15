@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Netflix's content library,
 
 ## 📊 Dashboard Preview
 
-![Netflix Movies & TV Shows Dashboard](netflix-dashboard.png)
+![Netflix Movies & TV Shows Dashboard](Netflix Dashboard.png)
 
 *Note: Upload your dashboard screenshot to your GitHub repository and name it `netflix-dashboard.png`, or update the image path above to match your filename.*
 
