@@ -2,12 +2,6 @@
 
 An interactive Power BI dashboard designed to analyze Netflix's content library, uncover viewing-content trends, and visualize the distribution of movies and TV shows across countries, genres, ratings, and release years.
 
-## 📊 Dashboard Preview
-
-![Netflix Movies & TV Shows Dashboard](Netflix Dashboard.png)
-
-*Note: Upload your dashboard screenshot to your GitHub repository and name it `netflix-dashboard.png`, or update the image path above to match your filename.*
-
 ## 📌 Project Overview
 
 This project explores Netflix's Movies and TV Shows dataset to understand its content distribution and historical release trends. The dashboard transforms raw data into meaningful visual insights through interactive charts, KPI cards, and geographical visualizations.
