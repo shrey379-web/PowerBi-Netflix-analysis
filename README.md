@@ -61,8 +61,8 @@ It is designed to help users explore Netflix's content catalogue and understand 
 netflix-powerbi-dashboard/
 │
 ├── README.md
-├── netflix-dashboard.png
-└── netflix-dashboard.pbix
+├── Netflix Dashboard.png
+└── netflix_titles.csv
 ```
 
 *The `.png` and `.pbix` files are illustrative filenames. Upload the screenshot and Power BI file if you intend to include them in your repository.*
