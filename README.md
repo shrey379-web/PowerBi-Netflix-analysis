@@ -93,7 +93,7 @@ This project strengthened my ability to transform raw datasets into clear, inter
 
 **Shrey Gandhi**
 
-Computer Science Engineer | AI/ML & Data Analytics Enthusiast | Power BI | MBA in IT Management
+Computer Science Engineer | AI/ML & Data Analytics Enthusiast | Power BI | 
 
 ---
 
